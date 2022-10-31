@@ -1,0 +1,22 @@
+{
+    "name": "weather-cli",
+    "version": "1.0.0",
+    "description": "cli for getting weather",
+    "main": "app.js",
+    "bin": "./app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "cli",
+        "weather"
+    ],
+    "author": "Slava",
+    "license": "ISC",
+    "homepage": "https://kondakovvv.ru",
+    "repository": {
+        "type": "git",
+        "url": "https://kondakovvv.ru"
+    }
+    
+}
